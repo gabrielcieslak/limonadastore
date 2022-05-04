@@ -1,0 +1,28 @@
+{
+  "name": "limonada",
+  "version": "1.0.0",
+  "description": "\"# limonadastore\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest dist/",
+    "build": "tsc",
+    "test2": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielcieslak/limonadastore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielcieslak/limonadastore/issues"
+  },
+  "homepage": "https://github.com/gabrielcieslak/limonadastore#readme",
+  "devDependencies": {
+    "@types/jest": "^27.5.0",
+    "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "typescript": "^4.6.4"
+  }
+}
